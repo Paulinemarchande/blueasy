@@ -56,3 +56,27 @@
     background-image: url("./images/fondservices.png");
     color: white;
 }
+
+.titreServices{
+    padding-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 80px;
+}
+.services{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 70px;
+}
+.services h3{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.photo{
+    margin: 5px;
+    color: black;
+    text-transform: uppercase;
+    font-size: 1.6rem;
+    text-decoration: none;
+    padding: 4px;
+}
