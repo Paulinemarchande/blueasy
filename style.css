@@ -67,7 +67,7 @@
     padding-right: 80px;
     padding-bottom: 70px;
 }
-.services h3{
+.services h2{
     margin-top: 10px;
     margin-bottom: 15px;
 }
@@ -79,4 +79,50 @@
     font-size: 1.6rem;
     text-decoration: none;
     padding: 4px;
+}
+
+.logo{
+    font-weight: bolder;
+    color: black;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.elementsPortfolio{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.photo{
+    height: 200px;
+    background-position: center ;
+    background-size : cover;
+    background-repeat: no-repeat;
+    margin-left: 20px;
+}
+.photo1{
+    background-image: url("images/portfolio/1.png");
+}
+.photo2{
+    background-image: url("images/portfolio/2.png");
+}
+.photo3{
+    background-image: url("images/portfolio/3.png");
+}
+.photo4{
+    background-image: url("images/portfolio/4.png");
+}
+.photo5{
+    background-image: url("images/portfolio/5.png");
+}
+.photo6{
+    background-image: url("images/portfolio/6.png");
+}
+.photo7{
+    background-image: url("images/portfolio/7.png");
+}
+.photo8{
+    background-image: url("images/portfolio/8.png");
 }
