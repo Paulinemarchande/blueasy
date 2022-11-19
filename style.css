@@ -81,7 +81,7 @@
     padding: 4px;
 }
 
-.logo{
+.title{
     font-weight: bolder;
     color: black;
     font-size: 2rem;
@@ -127,7 +127,7 @@
     background-image: url("images/portfolio/8.png");
 }
 
-.containerDefault{
+.defaultSection{
     background-color: #303030;
     padding-top: 50px;
     padding-bottom: 60px;
@@ -163,7 +163,7 @@
     justify-content: flex-end;
 }
 
-.containerTwitter{
+.twitter{
     padding-top: 50px;
     background-image: url(images/fondservices.png);
     color: white;
@@ -176,7 +176,7 @@
     margin-left: 80px;
 }
 
-.barTwitter{
+.cadreTwitter{
     display: flex;
     align-items: baseline;
     justify-content: space-between;
@@ -195,12 +195,12 @@
     padding-bottom: 50px;
 }
 
-.sectionJohn{
+.cadreJohn{
     background-color: #94B3D4;
     padding-top: 70px;
 }
 
-.textimage{
+.textImage{
     display: flex;
     align-self: flex-end;
 }
@@ -218,7 +218,7 @@
     margin-left: 80px;
 }
 
-.text3et4{
+.parag{
     margin-top: 30px;
     margin-left: 80px;
     max-height: 800px;
@@ -226,14 +226,14 @@
     color: white;
 }
 
-.text5{
+.paragraphe3{
     margin-top: 20px;
     max-height: 800px;
     max-width: 700px;
     color: white;
 }
 
-.containerTestimonials{
+.cadreTestimonials{
     padding-top: 50px;
     background-color:white ;
 }
@@ -244,7 +244,7 @@
     margin-left: 80px;
 }
 
-.barTestimonials{
+.bandeauTestimonials{
     display: flex;
     align-items: baseline;
     justify-content: space-between;
@@ -263,12 +263,12 @@
     padding-bottom: 50px;
 }
 
-.text2Testimonials{
+.nomTestimonials{
     color:deepskyblue;
     font-weight: 700;
 }
 
-.containerContact{
+.cadreContact{
     background-color: #94B3D4;
     padding-bottom: 40px;
     padding-top: 50px;
@@ -281,7 +281,7 @@
     color: white;
 }
 
-.mini{
+.petitCadre{
     width: 650px;
     margin-left: 80px;
     color: white;
