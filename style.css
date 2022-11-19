@@ -126,3 +126,218 @@
 .photo8{
     background-image: url("images/portfolio/8.png");
 }
+
+.containerDefault{
+    background-color: #303030;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+.sectionVideo{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -140px;
+}
+
+.titreDefault{
+    color: white;
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin-left: 80px;
+}
+
+.texteDefault{
+    margin-top: 30px;
+    margin-left: 80px;
+    max-height: 800px;
+    max-width: 800px;
+    color: white;
+    width: 500px;
+}
+.boutonVisiter{
+    color: #303030;
+}
+
+.video{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.containerTwitter{
+    padding-top: 50px;
+    background-image: url(images/fondservices.png);
+    color: white;
+}
+
+.titreTwitter{
+    color: white;
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin-left: 80px;
+}
+
+.barTwitter{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.logoTwitter{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 80px;
+    margin-top: 30px;
+}
+
+.texteTwitter{
+    margin-top: 30px;
+    margin-left: 80px;
+    padding-bottom: 50px;
+}
+
+.sectionJohn{
+    background-color: #94B3D4;
+    padding-top: 70px;
+}
+
+.textimage{
+    display: flex;
+    align-self: flex-end;
+}
+
+.textgroup{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly,flex-start;
+}
+
+.johnTitre{
+    color: white;
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin-left: 80px;
+}
+
+.text3et4{
+    margin-top: 30px;
+    margin-left: 80px;
+    max-height: 800px;
+    max-width: 700px;
+    color: white;
+}
+
+.text5{
+    margin-top: 20px;
+    max-height: 800px;
+    max-width: 700px;
+    color: white;
+}
+
+.containerTestimonials{
+    padding-top: 50px;
+    background-color:white ;
+}
+
+.titreTestimonials{
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin-left: 80px;
+}
+
+.barTestimonials{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.logoTestimonials{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 80px;
+    margin-top: 30px;
+}
+
+.texteTestimonials{
+    margin-top: 30px;
+    margin-left: 80px;
+    padding-bottom: 50px;
+}
+
+.text2Testimonials{
+    color:deepskyblue;
+    font-weight: 700;
+}
+
+.containerContact{
+    background-color: #94B3D4;
+    padding-bottom: 40px;
+    padding-top: 50px;
+}
+
+.titreContact{
+    margin-left: 80px;
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: white;
+}
+
+.mini{
+    width: 650px;
+    margin-left: 80px;
+    color: white;
+}
+
+.message{
+    width: 1130px;
+    margin-left: 80px;
+    color: white;
+    margin-right: 80px;
+}
+
+.texteContact{
+    color: white;
+    margin-left: 800px;
+    margin-top: -200px;
+}
+
+.mb-3{
+    margin-top: 50px;
+}
+
+.form-control{
+    background-color: transparent;
+}
+
+.btn{
+    margin-left: 80px;
+    width: 300px;
+    height: 50px;
+    border-radius: 0%;
+    color: white;
+    background-color:#11CAEB;
+    border-color: transparent;
+}
+
+.footer{
+    background-color: #303030;
+    height: 100px;
+    padding-top: 30px;
+}
+
+.menuFooter{
+    margin-left: 70px;
+}
+
+.menuFooter a{
+    color: lightgrey ;
+    text-decoration: none;
+    margin: 5px;
+}
+
+.date{
+    color: lightgrey;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+    margin-top: -25px;
+}
